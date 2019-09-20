@@ -1,4 +1,11 @@
-﻿using System;
+﻿/*
+ * Created by: Sasha Malko
+ * Created on: 20-Sep-2019
+ * Created for: ICS3U Programming
+ * Daily Assignment – Day #11 - Top-Down Design & Flow Charts
+ * This program gets the radius from the user and calculates the circumference. 
+*/
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -22,6 +29,7 @@ namespace CircSasha
 
         private void MniExit_Click(object sender, EventArgs e)
         {
+            // this will close the program 
             this.Close();
         }
 
@@ -34,10 +42,10 @@ namespace CircSasha
             radius = double.Parse(txtRadius.Text);
 
             // calculate the circumference
-            circumference = Math.PI * Math.Pow(radius, 2);
+            circumference = 2 * Math.PI * radius;
 
             // insert the circumference into its respective label
-            this.lblAnswer.Text = Convert.ToString(circumference) + "cm";
+            this.lblAnswer.Text = Convert.ToString(circumference) + " cm";
 
             // display the circumference and answer labels 
             this.lblCircumference.Show();
