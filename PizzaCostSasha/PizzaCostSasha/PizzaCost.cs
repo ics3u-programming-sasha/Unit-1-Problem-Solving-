@@ -16,7 +16,7 @@ namespace PizzaCostSasha
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new PizzaCostForm());
+            Application.Run(new frmPizzaCost());
         }
     }
 }
