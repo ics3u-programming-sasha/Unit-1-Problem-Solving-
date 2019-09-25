@@ -8,3 +8,13 @@ N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\Unit 1 (Problem Solv
 N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\Unit 1 (Problem Solving)\PizzaCostSasha\PizzaCostSasha\obj\Debug\PizzaCostSasha.csproj.CoreCompileInputs.cache
 N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\Unit 1 (Problem Solving)\PizzaCostSasha\PizzaCostSasha\obj\Debug\PizzaCostSasha.exe
 N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\Unit 1 (Problem Solving)\PizzaCostSasha\PizzaCostSasha\obj\Debug\PizzaCostSasha.pdb
+C:\Users\S\Documents\ICS3U\Unit-1-Problem-Solving-\PizzaCostSasha\PizzaCostSasha\bin\Debug\PizzaCostSasha.exe.config
+C:\Users\S\Documents\ICS3U\Unit-1-Problem-Solving-\PizzaCostSasha\PizzaCostSasha\bin\Debug\PizzaCostSasha.exe
+C:\Users\S\Documents\ICS3U\Unit-1-Problem-Solving-\PizzaCostSasha\PizzaCostSasha\bin\Debug\PizzaCostSasha.pdb
+C:\Users\S\Documents\ICS3U\Unit-1-Problem-Solving-\PizzaCostSasha\PizzaCostSasha\obj\Debug\PizzaCostSasha.csprojAssemblyReference.cache
+C:\Users\S\Documents\ICS3U\Unit-1-Problem-Solving-\PizzaCostSasha\PizzaCostSasha\obj\Debug\PizzaCostSasha.frmPizzaCost.resources
+C:\Users\S\Documents\ICS3U\Unit-1-Problem-Solving-\PizzaCostSasha\PizzaCostSasha\obj\Debug\PizzaCostSasha.Properties.Resources.resources
+C:\Users\S\Documents\ICS3U\Unit-1-Problem-Solving-\PizzaCostSasha\PizzaCostSasha\obj\Debug\PizzaCostSasha.csproj.GenerateResource.cache
+C:\Users\S\Documents\ICS3U\Unit-1-Problem-Solving-\PizzaCostSasha\PizzaCostSasha\obj\Debug\PizzaCostSasha.csproj.CoreCompileInputs.cache
+C:\Users\S\Documents\ICS3U\Unit-1-Problem-Solving-\PizzaCostSasha\PizzaCostSasha\obj\Debug\PizzaCostSasha.exe
+C:\Users\S\Documents\ICS3U\Unit-1-Problem-Solving-\PizzaCostSasha\PizzaCostSasha\obj\Debug\PizzaCostSasha.pdb

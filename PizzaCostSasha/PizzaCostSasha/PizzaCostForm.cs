@@ -40,8 +40,8 @@ namespace PizzaCostSasha
             total = (0.75 + 0.99 + 0.5 * diameter) * 1.13;
 
             // insert the total and subtotal into their respective labels
-            this.lblASubtotal.Text = "$" + Convert.ToString(subtotal);
-            this.lblATotal.Text = "$" + Convert.ToString(total);
+            this.lblASubtotal.Text = String.Format("${0:0.00}", subtotal);
+            this.lblATotal.Text = String.Format("${0:0.00}", total);
 
             // display the subtotal and total labels with their respective answers
             this.lblASubtotal.Show();

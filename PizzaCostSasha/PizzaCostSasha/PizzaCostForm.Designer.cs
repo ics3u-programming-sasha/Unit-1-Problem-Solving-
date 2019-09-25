@@ -40,16 +40,16 @@
             // lblEnterDiameter
             // 
             this.lblEnterDiameter.AutoSize = true;
-            this.lblEnterDiameter.Font = new System.Drawing.Font("Gentium Book Basic", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblEnterDiameter.Location = new System.Drawing.Point(119, 84);
+            this.lblEnterDiameter.Font = new System.Drawing.Font("Myanmar Text", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblEnterDiameter.Location = new System.Drawing.Point(72, 79);
             this.lblEnterDiameter.Name = "lblEnterDiameter";
-            this.lblEnterDiameter.Size = new System.Drawing.Size(296, 24);
+            this.lblEnterDiameter.Size = new System.Drawing.Size(415, 37);
             this.lblEnterDiameter.TabIndex = 0;
-            this.lblEnterDiameter.Text = "Enter the diameter of the pizza: ";
+            this.lblEnterDiameter.Text = "Enter the diameter of the pizza (in inches): ";
             // 
             // txtDiameter
             // 
-            this.txtDiameter.Location = new System.Drawing.Point(482, 84);
+            this.txtDiameter.Location = new System.Drawing.Point(568, 84);
             this.txtDiameter.Name = "txtDiameter";
             this.txtDiameter.Size = new System.Drawing.Size(100, 20);
             this.txtDiameter.TabIndex = 1;
@@ -57,31 +57,31 @@
             // btnCalculate
             // 
             this.btnCalculate.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnCalculate.Location = new System.Drawing.Point(320, 176);
+            this.btnCalculate.Location = new System.Drawing.Point(313, 199);
             this.btnCalculate.Name = "btnCalculate";
-            this.btnCalculate.Size = new System.Drawing.Size(119, 38);
+            this.btnCalculate.Size = new System.Drawing.Size(153, 43);
             this.btnCalculate.TabIndex = 2;
-            this.btnCalculate.Text = "Calculate";
+            this.btnCalculate.Text = "Calculate Cost";
             this.btnCalculate.UseVisualStyleBackColor = true;
             this.btnCalculate.Click += new System.EventHandler(this.BtnCalculate_Click);
             // 
             // lblSubtotal
             // 
             this.lblSubtotal.AutoSize = true;
-            this.lblSubtotal.Font = new System.Drawing.Font("Gentium Book Basic", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblSubtotal.Font = new System.Drawing.Font("Myanmar Text", 14.25F);
             this.lblSubtotal.Location = new System.Drawing.Point(269, 308);
             this.lblSubtotal.Name = "lblSubtotal";
-            this.lblSubtotal.Size = new System.Drawing.Size(107, 22);
+            this.lblSubtotal.Size = new System.Drawing.Size(116, 34);
             this.lblSubtotal.TabIndex = 3;
             this.lblSubtotal.Text = "Subtotal ($):";
             // 
             // lblTotal
             // 
             this.lblTotal.AutoSize = true;
-            this.lblTotal.Font = new System.Drawing.Font("Gentium Book Basic", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblTotal.Font = new System.Drawing.Font("Myanmar Text", 14.25F);
             this.lblTotal.Location = new System.Drawing.Point(269, 373);
             this.lblTotal.Name = "lblTotal";
-            this.lblTotal.Size = new System.Drawing.Size(82, 22);
+            this.lblTotal.Size = new System.Drawing.Size(88, 34);
             this.lblTotal.TabIndex = 4;
             this.lblTotal.Text = "Total ($):";
             // 
@@ -89,7 +89,7 @@
             // 
             this.lblASubtotal.AutoSize = true;
             this.lblASubtotal.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblASubtotal.Location = new System.Drawing.Point(433, 308);
+            this.lblASubtotal.Location = new System.Drawing.Point(447, 309);
             this.lblASubtotal.Name = "lblASubtotal";
             this.lblASubtotal.Size = new System.Drawing.Size(40, 24);
             this.lblASubtotal.TabIndex = 5;
@@ -99,7 +99,7 @@
             // 
             this.lblATotal.AutoSize = true;
             this.lblATotal.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblATotal.Location = new System.Drawing.Point(433, 373);
+            this.lblATotal.Location = new System.Drawing.Point(447, 374);
             this.lblATotal.Name = "lblATotal";
             this.lblATotal.Size = new System.Drawing.Size(40, 24);
             this.lblATotal.TabIndex = 6;
